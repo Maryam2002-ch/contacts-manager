@@ -60,13 +60,6 @@ Sara: 09123456789
 - Error handling for empty JSON files
 - Separate files for logic (contacts.py) and interface (main.py)
 
-## 🔜 Future Improvements
-
-- Search contacts by name
-- Edit individual fields
-- Export/import contacts from CSV
-- Phone number validation
-
 ## 📄 License
 
 Feel free to use, modify, and share this project for learning purposes.
