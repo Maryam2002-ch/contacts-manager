@@ -12,13 +12,6 @@ A simple command-line contact manager written in Python that stores your contact
 - ✅ Data persists using JSON file
 - ✅ Input validation and error handling
 
-## 📁 Project Structure
-
-contacts-manager/
-├── contacts.py      # Main logic (add, delete, change, show, reset)
-├── main.py          # User interface and menu
-└── contact.json     # Your contacts are saved here (auto-generated)
-
 ## 🚀 How to Run
 
 1. Make sure you have Python installed (version 3.6+)
