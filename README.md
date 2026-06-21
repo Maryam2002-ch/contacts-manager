@@ -18,8 +18,9 @@ A simple command-line contact manager written in Python that stores your contact
 2. Open terminal in the project folder
 3. Run this command:
 
+```bash
 python main.py
-
+```
 ## 🎮 How to Use
 
 When you run the program, you'll see a menu:
@@ -35,15 +36,15 @@ Options: Show, Add, Delete, Change, Reset, Quit
 
 ## 📝 Example
 
-Choose: Add
-Name of contact: Sara
+Choose: Add <br>
+Name of contact: Sara <br>
 Number of contact: 09123456789
 
 ✅Contact added successfully.
 
 Choose: Show
 
-📞 Your contacts:
+📞 Your contacts: <br>
 Sara: 09123456789
 
 ## 🛠️ Code Highlights
