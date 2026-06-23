@@ -54,10 +54,6 @@ Sara: 09123456789
 - Error handling for empty JSON files
 - Separate files for logic (contacts.py) and interface (main.py)
 
-## 📄 License
-
-Feel free to use, modify, and share this project for learning purposes.
-
 ---
 
 ⭐ If you found this project helpful, give it a star!
